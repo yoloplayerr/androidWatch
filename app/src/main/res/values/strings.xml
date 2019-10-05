@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Watch</string>
+    <string name="button">Button</string>
+    <string name="otkl">Отклонение от севера: 0.0</string>
+</resources>
